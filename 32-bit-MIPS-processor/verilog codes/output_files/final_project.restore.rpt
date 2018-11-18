@@ -1,0 +1,111 @@
+Restore Archived Project report for final_project
+Thu Nov 15 11:01:17 2018
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Nov 15 11:01:17 2018 ;
+; Revision Name                   ; final_project                         ;
+; Top-level Entity Name           ; mips_core                             ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Bengi/Desktop/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046.qar' into the 'C:/Users/Bengi/Desktop/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046_restored/' directory
+Info: Generated report 'final_project.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4445 megabytes
+    Info: Processing ended: Thu Nov 15 11:01:18 2018
+    Info: Elapsed time: 00:00:09
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------------------------------------------------+
+; Files Restored                                           ;
++----------------------------------------------------------+
+; File Name                                                ;
++----------------------------------------------------------+
+; _and.v                                                   ;
+; _or.v                                                    ;
+; adder.v                                                  ;
+; addi.v                                                   ;
+; addiu.v                                                  ;
+; andi.v                                                   ;
+; beq.v                                                    ;
+; bne.v                                                    ;
+; data.mem                                                 ;
+; db/final_project.cmp.hdb                                 ;
+; db/final_project.db_info                                 ;
+; final_project.qpf                                        ;
+; final_project.qsf                                        ;
+; incremental_db/compiled_partitions/final_project.db_info ;
+; instruction.mem                                          ;
+; lui.v                                                    ;
+; mips_alu.v                                               ;
+; mips_core.v                                              ;
+; mips_data_memory.v                                       ;
+; mips_instruction_memory.v                                ;
+; mips_registers.v                                         ;
+; mips_testbench.v                                         ;
+; ori.v                                                    ;
+; pc.v                                                     ;
+; registers.mem                                            ;
+; sign_extend.v                                            ;
+; simulation/modelsim/data.mem                             ;
+; simulation/modelsim/instruction.mem                      ;
+; simulation/modelsim/registers.mem                        ;
+; sll.v                                                    ;
+; sllv.v                                                   ;
+; slt.v                                                    ;
+; slti.v                                                   ;
+; sltiu.v                                                  ;
+; sra.v                                                    ;
+; srl.v                                                    ;
+; sub.v                                                    ;
+; assignment_defaults.qdf                                  ;
++----------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

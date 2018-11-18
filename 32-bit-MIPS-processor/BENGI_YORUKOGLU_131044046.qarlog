@@ -1,0 +1,55 @@
+Quartus II Archive log --	C:/Users/Bengi/Desktop/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046.qarlog
+
+Archive:	C:/Users/Bengi/Desktop/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046.qar
+Date:		Wed Jan 03 22:42:53 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/_and.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/_or.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/adder.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/addi.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/addiu.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/andi.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/beq.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/bne.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/data.mem
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/db/final_project.cmp.hdb
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/db/final_project.db_info
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/final_project.qpf
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/final_project.qsf
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/incremental_db/compiled_partitions/final_project.db_info
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/instruction.mem
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/lui.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/mips_alu.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/mips_core.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/mips_data_memory.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/mips_instruction_memory.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/mips_registers.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/mips_testbench.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/ori.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/pc.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/registers.mem
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/sign_extend.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/simulation/modelsim/data.mem
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/simulation/modelsim/instruction.mem
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/simulation/modelsim/registers.mem
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/sll.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/sllv.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/slt.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/slti.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/sltiu.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/sra.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/srl.v
+C:/Users/Bengi/Desktop/bengi_organizasyon_final/sub.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 38 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Nov 15 11:01:15 2018
+Source archive file:	C:/Users/Bengi/Desktop/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046.qar
+Archive was extracted into	C:/Users/Bengi/Desktop/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046/BENGI_YORUKOGLU_131044046_restored/
+		 - successfully.
